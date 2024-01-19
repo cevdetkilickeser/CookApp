@@ -14,5 +14,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "YemApp"
+rootProject.name = "CookApp"
 include(":app")
